@@ -3,16 +3,16 @@
  />
 </p>
 
-<img align="right" src="https://github.com/FournyP/FournyP/assets/64586968/833d88b9-7940-4e0f-8894-ca7db6a99485" width="400">
+<img align="right" src="https://github.com/FournyP/FournyP/assets/64586968/833d88b9-7940-4e0f-8894-ca7db6a99485" width="450">
 
 ```sh
-Last login: Tue, 03 Oct 2023 at 16:54:41 CEST from 10.1.33.7
+Last login: Tue, 03 Oct 2023 at 16:58:53 CEST from 10.1.33.7
 
 $ echo "hello world, im $(whoami)."
 hello world, im Pierre.
 
 $ ls ~/interests
-⛓️ blockchain ✈️ travel 🌕 crypto 👨‍💼 entrepreneurship 💻 code 🧠 ai
+⛓️ blockchain 🌕 crypto 👨‍💼 entrepreneurship 💻 code 🧠 ai
 
 $ head -1 /etc/hosts
 127.0.0.1 localhost 🇫🇷 france
