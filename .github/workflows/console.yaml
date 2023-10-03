@@ -15,7 +15,6 @@ jobs:
           sudo timedatectl set-timezone Europe/Paris
           chmod 754 console.sh
           cp base.md README.md
-          echo '```sh' >> README.md
           ./console.sh | tee -a README.md
           echo '```' >> README.md
           git config user.name github-actions
