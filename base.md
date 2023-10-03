@@ -3,6 +3,6 @@
  />
 </p>
 
-<img align="right" src="https://github.com/FournyP/FournyP/assets/64586968/833d88b9-7940-4e0f-8894-ca7db6a99485" width="450">
+<img align="right" src="https://github.com/FournyP/FournyP/assets/64586968/91d98bf6-84d1-4944-9278-89262ef28c1c" width="400">
 
 ```sh
