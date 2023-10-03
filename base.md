@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FournyP/FournyP/assets/64586968/8a839343-d29c-4247-89fc-9862a1b31c80"
+  <img src="https://github.com/FournyP/FournyP/assets/64586968/6feea9e2-18e5-4657-8300-7f79a168173c"
  />
 </p>
 
