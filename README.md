@@ -4,8 +4,9 @@
 </p>
 
 <img align="right" src="https://github.com/FournyP/FournyP/assets/64586968/833d88b9-7940-4e0f-8894-ca7db6a99485" width="365">
+
 ```sh
-Last login: Tue, 03 Oct 2023 at 16:37:19 CEST from 10.1.33.7
+Last login: Tue, 03 Oct 2023 at 16:40:38 CEST from 10.1.33.7
 
 $ echo "hello world, im $(whoami)."
 hello world, im Pierre.
