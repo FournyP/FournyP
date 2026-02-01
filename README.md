@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/FournyP/FournyP/assets/64586968/91d98bf6-84d1-4944-9278-89262ef28c1c" width="365">
 
 ```sh
-Last login: Sun, 01 Feb 2026 at 09:01:55 CET from 10.1.33.7
+Last login: Sun, 01 Feb 2026 at 09:14:49 CET from 10.1.33.7
 
 $ echo "hello world, im $(whoami)."
 hello world, im Pierre.
